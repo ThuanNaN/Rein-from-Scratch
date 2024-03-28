@@ -1,2 +1,2 @@
-gymnasium
-gymnasium[box2d]
+swig
+gymnasium[all]
